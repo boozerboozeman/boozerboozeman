@@ -13,7 +13,7 @@ WHERE TABLE_NAME = 'boozerboozeman'
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boozerboozeman&theme=alduin" alt="Trophy" /></a>
 </details>
 
-<details open>
+<details closed>
 <summary>Open to see GitHub statistics.</summary>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fuwn.vercel.app/api?username=boozerboozeman&show_icons=true&theme=alduin&count_private=true" alt="Fuwn's GitHub Statistics" /><a/>
 </details>
