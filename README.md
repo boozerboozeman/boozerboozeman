@@ -1,5 +1,3 @@
-**MySQL Error:** 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE TABLE_NAME = 'boozerboozeman'' at line 3.
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sakurachan-ru&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
