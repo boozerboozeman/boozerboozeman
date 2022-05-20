@@ -9,7 +9,7 @@ FROM github_statistics
 WHERE TABLE_NAME = 'inthecatsdreams'
 
 ```
-<img src="https://inthecatsdreams.neocities.org/sewerslvt.gif">
+<img src="https://inthecatsdreams.neocities.org/sewerslvt.gif" style="width: 100px;">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inthecatsdreams&theme=alduin" alt="Trophy" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fuwn.vercel.app/api?username=inthecatsdreams&show_icons=true&theme=alduin&count_private=true" alt="inthecatsdreams' GitHub Statistics" /><a/>
