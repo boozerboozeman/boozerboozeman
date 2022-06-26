@@ -15,6 +15,6 @@ WHERE TABLE_NAME = 'inthecatsdreams'
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fuwn.vercel.app/api/top-langs/?username=inthecatsdreams&layout=compact&theme=alduin" alt="Trophy" /></a>
 
-<img src="https://inthecatsdreams.neocities.org/sewerslvt.gif" style="width: 100px;">
+
 
 
